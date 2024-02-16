@@ -30,7 +30,9 @@ O objetivo deste desafio proposto é desenvolver um modelo de previsão de preç
   with open('LH_CD_PEDROHENRIQUECARVALHONUNES.pkl', 'rb') as f:
     model = pickle.load(f)
 ```
-
+# Disclaimer
+- Somente executar o modelo não será possível predizer qualquer informação, para que o mesmo funcione é necessário a execução das células do notebook. Seguirei aprendendo para que o mesmo funcione diretamente no modelo gerado!
+  
 # Autor
 Pedro Henrique Carvalho Nunes
 https://www.linkedin.com/in/phcnunes/
